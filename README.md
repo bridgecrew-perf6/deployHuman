@@ -1,7 +1,7 @@
 ### Welcome
 
 
-![Visits Badge](https://badges.pufler.dev/visits/getexsm/getexsm)
+![Visits Badge](https://badges.pufler.dev/visits/deployHuman/deployHuman)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/deployHuman)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-trosell)
 
@@ -19,4 +19,4 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![personal stats](https://github-readme-stats.vercel.app/api?username=getexsm)
+![personal stats](https://github-readme-stats.vercel.app/api?username=deployHuman)
