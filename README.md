@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-trosell)
 
 - 🔭 I’m currently working on my own fullstack page and in my "real" work i do VB.NET and related programming
-- 🌱 I’m currently learning more and more Laravel apparently, I´m not going to user the full framework though
+- 🌱 I’m currently learning more and more Laravel apparently, I´m not going to use the full framework though 😇
 - 📫 best way to contact me is to tweet at me
 
 ## My Coding Knowledge
@@ -18,5 +18,3 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![personal stats](https://github-readme-stats.vercel.app/api?username=deployHuman)
