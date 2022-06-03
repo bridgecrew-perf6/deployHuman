@@ -5,9 +5,11 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/deployHuman)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-trosell)
 
-- 🔭 I’m currently working on my own fullstack page and in my "real" work i do VB.NET and related programming
-- 🌱 I’m currently learning more and more Laravel apparently, I´m not going to use the full framework though 😇
-- 📫 best way to contact me is to tweet at me
+- 🔭 I’m currently trying to Bootstrap my own SaaS web project.
+- 💼 My Fulltime work is working with data around electricity meter values.
+- 🌱 One of few who Loves PHP, and it feels like it has gotten a reboot now in later days.
+- ⚛️ Have some Public Repos that i maintain as part of my own projects.
+- 📫 best way to contact me is just to tweet at me.
 
 ## My Coding Knowledge
 
