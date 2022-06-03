@@ -7,11 +7,15 @@
 
 - 🔭 I’m currently trying to Bootstrap my own SaaS web project.
 - 💼 My Fulltime work is working with data around electricity meter values.
-- 🌱 One of few who Loves PHP, and it feels like it has gotten a reboot now in later days.
+- 🌱 One of the few who Loves PHP
 - ⚛️ Have some Public Repos that i maintain as part of my own projects.
 - 📫 best way to contact me is just to tweet at me.
 
-## My Coding Knowledge
+My first 6 years of work i did as an electrician and then 6 years of electrical engineering where i just drew a lot of scematics.
+And all along the way i have been programming on some kind of sideproject, but now in later years it has gotten more focus on the programming part.
+Which i love, never stop learning! 
+
+## Some of My Coding Knowledge
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
